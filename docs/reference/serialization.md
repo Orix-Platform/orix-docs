@@ -871,7 +871,7 @@ Orix serialization provides:
 
 ## Related Documents
 
-- [Atom Foundation](./01-foundation-atom.md) - Deterministic primitives
-- [Axion Schema](./02-schema-axion.md) - Schema language for type definitions
-- [Nexus Networking](./08-networking-nexus.md) - Delta compression for networking
-- [Executive Overview](./00-executive-overview.md) - Platform overview and Five Laws
+- [Atom Foundation](../products/atom.md) - Deterministic primitives
+- [Axion Schema](../products/axion.md) - Schema language for type definitions
+- [Nexus Networking](../products/nexus.md) - Delta compression for networking
+- [Executive Overview](../overview/executive.md) - Platform overview and Five Laws

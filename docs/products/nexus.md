@@ -1694,10 +1694,10 @@ Nexus builds on Atom (deterministic primitives), Flux (ECS simulation), and Axio
 
 ## Related Documents
 
-- [Flux Simulation](./07-simulation-flux.md) - ECS runtime that Nexus synchronizes
-- [Echo Replay](./09-replay-echo.md) - Recording and playback using deterministic state
-- [Axion Schema](./02-schema-axion.md) - Schema definitions for network types
-- [Executive Overview](./00-executive-overview.md) - Platform overview and Five Laws
+- [Flux Simulation](./flux.md) - ECS runtime that Nexus synchronizes
+- [Echo Replay](./echo.md) - Recording and playback using deterministic state
+- [Axion Schema](./axion.md) - Schema definitions for network types
+- [Executive Overview](../overview/executive.md) - Platform overview and Five Laws
 
 ---
 

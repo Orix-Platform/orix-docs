@@ -649,11 +649,11 @@ var player = db.Query<Player>()
 
 ## Related Documents
 
-- [Chronicle Time-Travel](./05-chronicle.md) - Database-level time-travel queries
-- [Flux Simulation](./07-simulation-flux.md) - The deterministic runtime Echo records
-- [Nexus Networking](./08-networking-nexus.md) - Multiplayer state synchronization
-- [Arbiter Testing](./11-testing-arbiter.md) - Determinism verification tests
+- [Chronicle Time-Travel](./chronicle.md) - Database-level time-travel queries
+- [Flux Simulation](./flux.md) - The deterministic runtime Echo records
+- [Nexus Networking](./nexus.md) - Multiplayer state synchronization
+- [Arbiter Testing](./arbiter.md) - Determinism verification tests
 
 ---
 
-**Next**: [Lumen Observability](./10-observability-lumen.md) - Tick-aware logging and metrics
+**Next**: [Lumen Observability](./lumen.md) - Tick-aware logging and metrics

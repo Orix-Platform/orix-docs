@@ -929,10 +929,10 @@ var isValid = chronicle.VerifySnapshot(
 
 ## Related Documents
 
-- [LatticeDB Storage](./04-storage-lattice.md) - Underlying storage layer
-- [Flux Simulation](./07-simulation-flux.md) - Entity-component simulation
-- [Axion Schema](./02-schema-axion.md) - Schema definition language
-- [Executive Overview](./00-executive-overview.md) - Platform overview and Five Laws
+- [LatticeDB Storage](./lattice.md) - Underlying storage layer
+- [Flux Simulation](./flux.md) - Entity-component simulation
+- [Axion Schema](./axion.md) - Schema definition language
+- [Executive Overview](../overview/executive.md) - Platform overview and Five Laws
 
 ---
 

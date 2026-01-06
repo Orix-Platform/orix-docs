@@ -1153,10 +1153,10 @@ done
 
 ### Related Documents
 
-- [Axion Schema](./02-schema-axion.md) - Schema language for type definitions
-- [LatticeDB Storage](./04-storage-lattice.md) - Underlying storage layer
-- [Business Overview](./13-business-overview.md) - Security value proposition
-- [Executive Overview](./00-executive-overview.md) - Platform overview and Five Laws
+- [Axion Schema](./axion.md) - Schema language for type definitions
+- [LatticeDB Storage](./lattice.md) - Underlying storage layer
+- [Business Overview](../overview/business.md) - Security value proposition
+- [Executive Overview](../overview/executive.md) - Platform overview and Five Laws
 
 ---
 

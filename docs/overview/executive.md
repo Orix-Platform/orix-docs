@@ -118,15 +118,15 @@ Backend services require consistent behavior across deployments. Axion schemas d
 
 ### For Developers
 
-Begin with the product-specific documentation to understand each layer. The [Atom Foundation](./01-foundation-atom.md) document covers deterministic primitives. [Axion Schema](./02-schema-axion.md) explains schema-first development.
+Begin with the product-specific documentation to understand each layer. The [Atom Foundation](../products/atom.md) document covers deterministic primitives. [Axion Schema](../products/axion.md) explains schema-first development.
 
 ### For Business Leaders
 
-Start with the [Business Overview](./13-business-overview.md) for market positioning and value propositions. Review product documents for capabilities and use cases.
+Start with the [Business Overview](./business.md) for market positioning and value propositions. Review product documents for capabilities and use cases.
 
 ### For Operators
 
-[Airlock](./06-secrets-airlock.md) covers secrets management. [Lumen](./10-observability-lumen.md) provides observability guidance. [Arbiter](./11-testing-arbiter.md) ensures determinism verification.
+[Airlock](../products/airlock.md) covers secrets management. [Lumen](../products/lumen.md) provides observability guidance. [Arbiter](../products/arbiter.md) ensures determinism verification.
 
 ---
 
@@ -134,19 +134,19 @@ Start with the [Business Overview](./13-business-overview.md) for market positio
 
 | Document | Purpose |
 |----------|---------|
-| [01 - Atom Foundation](./01-foundation-atom.md) | Deterministic math, collections, primitives |
-| [02 - Axion Schema](./02-schema-axion.md) | Schema language and code generation |
-| [03 - Serialization](./03-serialization.md) | Binary encoding and compression |
-| [04 - LatticeDB](./04-storage-lattice.md) | Storage, queries, and CRDTs |
-| [05 - Chronicle](./05-chronicle.md) | Time-travel database |
-| [06 - Airlock](./06-secrets-airlock.md) | Secrets management |
-| [07 - Flux](./07-simulation-flux.md) | ECS simulation runtime |
-| [08 - Nexus](./08-networking-nexus.md) | Networking and sync |
-| [09 - Echo](./09-replay-echo.md) | Recording and replay |
-| [10 - Lumen](./10-observability-lumen.md) | Observability |
-| [11 - Arbiter](./11-testing-arbiter.md) | Testing framework |
-| [12 - Technical Deep-Dive](./12-technical-deep-dive.md) | Architecture details |
-| [13 - Business Overview](./13-business-overview.md) | Non-technical summary |
+| [01 - Atom Foundation](../products/atom.md) | Deterministic math, collections, primitives |
+| [02 - Axion Schema](../products/axion.md) | Schema language and code generation |
+| [03 - Serialization](../reference/serialization.md) | Binary encoding and compression |
+| [04 - LatticeDB](../products/lattice.md) | Storage, queries, and CRDTs |
+| [05 - Chronicle](../products/chronicle.md) | Time-travel database |
+| [06 - Airlock](../products/airlock.md) | Secrets management |
+| [07 - Flux](../products/flux.md) | ECS simulation runtime |
+| [08 - Nexus](../products/nexus.md) | Networking and sync |
+| [09 - Echo](../products/echo.md) | Recording and replay |
+| [10 - Lumen](../products/lumen.md) | Observability |
+| [11 - Arbiter](../products/arbiter.md) | Testing framework |
+| [12 - Technical Deep-Dive](../reference/technical-deep-dive.md) | Architecture details |
+| [13 - Business Overview](./business.md) | Non-technical summary |
 
 ---
 

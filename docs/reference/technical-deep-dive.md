@@ -1197,11 +1197,11 @@ V3: orix arbiter determinism
 
 ## Related Documents
 
-- [Atom Foundation](./01-foundation-atom.md) - DFixed64 and deterministic primitives
-- [Axion Schema](./02-schema-axion.md) - Schema language and code generation
-- [Flux Simulation](./07-simulation-flux.md) - ECS runtime details
-- [Arbiter Testing](./11-testing-arbiter.md) - Testing framework
-- [Executive Overview](./00-executive-overview.md) - Platform overview and Five Laws
+- [Atom Foundation](../products/atom.md) - DFixed64 and deterministic primitives
+- [Axion Schema](../products/axion.md) - Schema language and code generation
+- [Flux Simulation](../products/flux.md) - ECS runtime details
+- [Arbiter Testing](../products/arbiter.md) - Testing framework
+- [Executive Overview](../overview/executive.md) - Platform overview and Five Laws
 
 ---
 

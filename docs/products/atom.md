@@ -701,10 +701,10 @@ Atom is the bedrock on which Flux (simulation), Nexus (networking), and Echo (re
 
 ## Related Documents
 
-- [Axion Schema](./02-schema-axion.md) - Schema language built on Atom types
-- [Serialization](./03-serialization.md) - Binary encoding with BitWriter/BitReader
-- [Flux Simulation](./07-simulation-flux.md) - ECS runtime using Atom primitives
-- [Executive Overview](./00-executive-overview.md) - Platform overview
+- [Axion Schema](./axion.md) - Schema language built on Atom types
+- [Serialization](../reference/serialization.md) - Binary encoding with BitWriter/BitReader
+- [Flux Simulation](./flux.md) - ECS runtime using Atom primitives
+- [Executive Overview](../overview/executive.md) - Platform overview
 
 ## Analyzer Rules
 

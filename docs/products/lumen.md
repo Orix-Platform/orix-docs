@@ -829,10 +829,10 @@ Assert.True(childSpan.EndTick <= rootSpan.EndTick);
 
 ## Related Documents
 
-- [Flux Simulation](./07-simulation-flux.md) - The tick-based runtime Lumen observes
-- [Echo Replay](./09-replay-echo.md) - Replay system that benefits from tick-correlated logs
-- [Arbiter Testing](./11-testing-arbiter.md) - Testing with MemorySink for log verification
-- [Axion Schema](./02-schema-axion.md) - Schema definitions for observability types
+- [Flux Simulation](./flux.md) - The tick-based runtime Lumen observes
+- [Echo Replay](./echo.md) - Replay system that benefits from tick-correlated logs
+- [Arbiter Testing](./arbiter.md) - Testing with MemorySink for log verification
+- [Axion Schema](./axion.md) - Schema definitions for observability types
 
 ---
 

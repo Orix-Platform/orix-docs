@@ -1010,9 +1010,9 @@ storage.Close();
 
 ## Related Documents
 
-- [Chronicle Time-Travel](./05-chronicle.md) - Deep dive into temporal features
-- [Axion Schemas](./02-schema-axion.md) - Schema language specification
-- [Executive Overview](./00-executive-overview.md) - Platform overview
+- [Chronicle Time-Travel](./chronicle.md) - Deep dive into temporal features
+- [Axion Schemas](./axion.md) - Schema language specification
+- [Executive Overview](../overview/executive.md) - Platform overview
 
 ---
 

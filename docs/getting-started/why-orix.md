@@ -247,7 +247,6 @@ Not philosophy. Necessity.
 **Next Steps**
 
 If this resonates, read:
-- [Product Specifications](../products/) - What Orix actually provides.
 - [Atom Overview](../products/atom.md) - The deterministic primitives (DFixed64, Tick, OrixRandom).
 - [Flux Overview](../products/flux.md) - The simulation runtime that makes determinism practical.
 

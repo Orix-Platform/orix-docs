@@ -672,10 +672,10 @@ Compare to OOP with object overhead: ~100KB * 64 bytes = 6.4MB.
 
 | Document | What It Covers |
 |----------|----------------|
-| [Atom Foundation](./01-foundation-atom.md) | DFixed64 - deterministic math |
-| [LatticeDB Storage](./04-storage-lattice.md) | Lattice - storage layer |
-| [Nexus Networking](./08-networking-nexus.md) | Multiplayer state synchronization |
-| [Executive Overview](./00-executive-overview.md) | Five Laws of determinism |
+| [Atom Foundation](./atom.md) | DFixed64 - deterministic math |
+| [LatticeDB Storage](./lattice.md) | Lattice - storage layer |
+| [Nexus Networking](./nexus.md) | Multiplayer state synchronization |
+| [Executive Overview](../overview/executive.md) | Five Laws of determinism |
 
 ---
 

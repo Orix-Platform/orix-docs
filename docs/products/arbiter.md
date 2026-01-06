@@ -891,11 +891,11 @@ Write tests that prove it.
 
 ## Related Documents
 
-- [Atom Foundation](./01-foundation-atom.md) - DFixed64 and deterministic primitives tested by Arbiter
-- [Flux Simulation](./07-simulation-flux.md) - ECS runtime with determinism tests
-- [Echo Replay](./09-replay-echo.md) - Replay verification tests
-- [Chronicle Time-Travel](./05-chronicle.md) - Time-travel tests
+- [Atom Foundation](./atom.md) - DFixed64 and deterministic primitives tested by Arbiter
+- [Flux Simulation](./flux.md) - ECS runtime with determinism tests
+- [Echo Replay](./echo.md) - Replay verification tests
+- [Chronicle Time-Travel](./chronicle.md) - Time-travel tests
 
 ---
 
-**Next:** [Technical Deep-Dive](./12-technical-deep-dive.md) - Architecture details for engineers
+**Next:** [Technical Deep-Dive](../reference/technical-deep-dive.md) - Architecture details for engineers

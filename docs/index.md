@@ -8,33 +8,20 @@ Orix guarantees identical behavior across all devices, operating systems, and ru
 
 ## Quick Start
 
-<div class="grid cards" markdown>
-
--   :material-help-circle:{ .lg .middle } **Why Orix?**
-
-    ---
-
+!!! question "Why Orix?"
     Understand the problems Orix solves before diving into the solution.
 
-    [:octicons-arrow-right-24: Read Why Orix](getting-started/why-orix.md)
+    **[Read Why Orix →](getting-started/why-orix.md)**
 
--   :material-rocket-launch:{ .lg .middle } **Hello World**
-
-    ---
-
+!!! example "Hello World"
     Prove determinism in 5 minutes with 42 lines of code.
 
-    [:octicons-arrow-right-24: Try Hello World](getting-started/hello-world.md)
+    **[Try Hello World →](getting-started/hello-world.md)**
 
--   :material-stairs:{ .lg .middle } **Adoption Guide**
-
-    ---
-
+!!! tip "Adoption Guide"
     Start small. Adopt incrementally. No "all or nothing."
 
-    [:octicons-arrow-right-24: See Adoption Ladder](getting-started/adoption-ladder.md)
-
-</div>
+    **[See Adoption Ladder →](getting-started/adoption-ladder.md)**
 
 ---
 
@@ -55,21 +42,21 @@ Orix is built on five immutable laws:
 ## Platform Architecture
 
 ```
-┌─────────────────────────────────────────────────────────────┐
-│                         PACKS                                │
-│                    (Domain Extensions)                       │
-├─────────────────────────────────────────────────────────────┤
-│  AIRLOCK  │  FLUX  │  NEXUS  │  ECHO  │  LUMEN  │  ARBITER  │
-├───────────┴────────┴─────────┴────────┴─────────┴───────────┤
-│                        LATTICE                               │
-│                   (Storage + Query)                          │
-├─────────────────────────────────────────────────────────────┤
-│                         AXION                                │
-│                   (Schema + Codegen)                         │
-├─────────────────────────────────────────────────────────────┤
-│                          ATOM                                │
-│                 (Deterministic Primitives)                   │
-└─────────────────────────────────────────────────────────────┘
++-----------------------------------------------------------+
+|                         PACKS                             |
+|                    (Domain Extensions)                    |
++-----------------------------------------------------------+
+| AIRLOCK | FLUX | NEXUS | ECHO | LUMEN | ARBITER           |
++-----------------------------------------------------------+
+|                        LATTICE                            |
+|                   (Storage + Query)                       |
++-----------------------------------------------------------+
+|                         AXION                             |
+|                   (Schema + Codegen)                      |
++-----------------------------------------------------------+
+|                          ATOM                             |
+|                 (Deterministic Primitives)                |
++-----------------------------------------------------------+
 ```
 
 ---

@@ -777,9 +777,9 @@ It solves the "schema drift" problem by providing:
 
 ## Related Documents
 
-- [Atom Foundation](./01-foundation-atom.md) - Deterministic primitives Axion generates code for
-- [Serialization](./03-serialization.md) - Binary encoding of Axion types
-- [Technical Deep-Dive](./12-technical-deep-dive.md) - Implementation patterns
+- [Atom Foundation](./atom.md) - Deterministic primitives Axion generates code for
+- [Serialization](../reference/serialization.md) - Binary encoding of Axion types
+- [Technical Deep-Dive](../reference/technical-deep-dive.md) - Implementation patterns
 
 ---
 
