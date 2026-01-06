@@ -1,7 +1,6 @@
 site_name: Orix Platform
 site_description: Deterministic Simulation Platform Documentation
 site_url: https://orix-platform.github.io/orix-docs
-docs_dir: .
 
 repo_name: Orix-Platform/orix-docs
 repo_url: https://github.com/Orix-Platform/orix-docs
